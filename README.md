@@ -7,6 +7,11 @@
 
 
 ### 🔨 Languages and Tools:
+<a href="https://www.astronomer.io/?utm_term=airflow&utm_campaign=ch.sem_br.nonbrand_tp.prs_tgt.airflow-general_mt.xct_rgn.namer_lng.eng_dv.all_con.airflow-general&utm_source=google&utm_medium=sem&gclid=Cj0KCQjwuLShBhC_ARIsAFod4fJoAyBzsnPJ4uwnf5EyFm9zvj231i_RuatwxIfOiUgpuXUuBjKEJg4aAgG2EALw_wcB" target="_blank"> <img align="left" src="https://static-00.iconduck.com/assets.00/airflow-icon-512x512-tpr318yf.png" alt="airflow" height="42px"/> </a> 
+<a href="https://aws.amazon.com/pm/sagemaker/?trk=8987dd52-6f33-407a-b89b-a7ba025c913c&sc_channel=ps&ef_id=Cj0KCQjwuLShBhC_ARIsAFod4fKRAtnmTd5dyGVs5yCdtI_0B90ku93MELaYmyQATTuxi2_Nv8B2RtkaAsglEALw_wcB:G:s&s_kwcid=AL!4422!3!532502995192!e!!g!!aws%20sagemaker!11206038603!113600690367" target="_blank"> <img align="left" src="https://miro.medium.com/v2/resize:fit:300/1*jbYRQa6__lU3EAzdkA_fJw.png" alt="AWS Sagemaker" height="42px"/> </a> 
+
+<a href="https://azure.microsoft.com/en-us/free/search/?ef_id=_k_Cj0KCQjwuLShBhC_ARIsAFod4fJMvuORgoBlhhbYkyD2UtX9FxIjKbn1GHSUvdN_OubfONTTda04ltgaAl0TEALw_wcB_k_&OCID=AIDcmm5edswduu_SEM_k_Cj0KCQjwuLShBhC_ARIsAFod4fJMvuORgoBlhhbYkyD2UtX9FxIjKbn1GHSUvdN_OubfONTTda04ltgaAl0TEALw_wcB_k_&gclid=Cj0KCQjwuLShBhC_ARIsAFod4fJMvuORgoBlhhbYkyD2UtX9FxIjKbn1GHSUvdN_OubfONTTda04ltgaAl0TEALw_wcB" target="_blank"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" alt="Azure" height="42px"/> </a> 
+
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
