@@ -1,3 +1,4 @@
+
 ### Hello!
 
 I'm Shreyas Nikam, a dedicated and driven AI enthusiast currently pursuing my MS in Artificial Intelligence. When I'm not obsessing over neural networks and deep learning algorithms, you'll probably find me exploring learning new languages or binge-watching sci-fi shows.
@@ -10,25 +11,24 @@ So if you're looking for an AI expert who's passionate, let's connect!  I'm alwa
 
 📫 Reach out to me at <a href="mailto:nik4m.5hreyas@gmail.com">Gmail</a> | <a href="https://www.linkedin.com/in/nikam-shreyas">LinkedIn</a>
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔨 Languages and Tools:
-<a href="https://www.astronomer.io/?utm_term=airflow&utm_campaign=ch.sem_br.nonbrand_tp.prs_tgt.airflow-general_mt.xct_rgn.namer_lng.eng_dv.all_con.airflow-general&utm_source=google&utm_medium=sem&gclid=Cj0KCQjwuLShBhC_ARIsAFod4fJoAyBzsnPJ4uwnf5EyFm9zvj231i_RuatwxIfOiUgpuXUuBjKEJg4aAgG2EALw_wcB" target="_blank"> <img align="left" src="https://static-00.iconduck.com/assets.00/airflow-icon-512x512-tpr318yf.png" alt="airflow" height="42px"/> </a> 
-<a href="https://aws.amazon.com/pm/sagemaker/?trk=8987dd52-6f33-407a-b89b-a7ba025c913c&sc_channel=ps&ef_id=Cj0KCQjwuLShBhC_ARIsAFod4fKRAtnmTd5dyGVs5yCdtI_0B90ku93MELaYmyQATTuxi2_Nv8B2RtkaAsglEALw_wcB:G:s&s_kwcid=AL!4422!3!532502995192!e!!g!!aws%20sagemaker!11206038603!113600690367" target="_blank"> <img align="left" src="https://miro.medium.com/v2/resize:fit:300/1*jbYRQa6__lU3EAzdkA_fJw.png" alt="AWS Sagemaker" height="42px"/> </a> 
 
-<a href="https://azure.microsoft.com/en-us/free/search/?ef_id=_k_Cj0KCQjwuLShBhC_ARIsAFod4fJMvuORgoBlhhbYkyD2UtX9FxIjKbn1GHSUvdN_OubfONTTda04ltgaAl0TEALw_wcB_k_&OCID=AIDcmm5edswduu_SEM_k_Cj0KCQjwuLShBhC_ARIsAFod4fJMvuORgoBlhhbYkyD2UtX9FxIjKbn1GHSUvdN_OubfONTTda04ltgaAl0TEALw_wcB_k_&gclid=Cj0KCQjwuLShBhC_ARIsAFod4fJMvuORgoBlhhbYkyD2UtX9FxIjKbn1GHSUvdN_OubfONTTda04ltgaAl0TEALw_wcB" target="_blank"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" alt="Azure" height="42px"/> </a> 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nikam-shreyas&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nikam-shreyas&theme=dark&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikam-shreyas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 
-<br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nikam-shreyas&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=20)
 
-<!---
-nikam-shreyas/nikam-shreyas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=nikam-shreyas&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
+
