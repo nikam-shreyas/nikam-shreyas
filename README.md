@@ -1,13 +1,15 @@
 
 ### Hello!
 
-I'm Shreyas Nikam, a dedicated and driven AI enthusiast currently pursuing my MS in Artificial Intelligence. When I'm not obsessing over neural networks and deep learning algorithms, you'll probably find me exploring learning new languages or binge-watching sci-fi shows.
+I'm a recent graduate of Northeastern University with a Master's degree in Artificial Intelligence. With a passion for innovation and creating a positive impact, I'm currently seeking full-time roles in AI. My expertise includes exploring the latest AI research and techniques, including deep learning and computer vision.
 
 As someone who's truly passionate about AI, I'm excited to bring my skills to a full-time role. With a knack for data analysis, programming, and all things tech, I'm confident I can help your organization innovate and make an impact in the field of AI.
 
 Whether I'm training models in Python, exploring new frontiers in TensorFlow, or collaborating with a team to deliver results, I'm always striving to learn and grow. And with my strong communication skills, I can explain complex concepts in a way that even my grandma would understand.
 
 So if you're looking for an AI expert who's passionate, let's connect!  I'm always up for a chat over coffee or a virtual hangout, and I'm excited to see where this journey takes me.
+
+Let's collaborate and make some magic happen with AI!
 
 📫 Reach out to me at <a href="mailto:nik4m.5hreyas@gmail.com">Gmail</a> | <a href="https://www.linkedin.com/in/nikam-shreyas">LinkedIn</a>
 
