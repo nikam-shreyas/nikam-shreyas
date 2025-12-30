@@ -1,18 +1,64 @@
+# Hi there, I'm Shreyas Nikam 👋
 
-### Hello!
+**Full-Stack Software Engineer | Architecting Scalable AI Solutions**
 
-I'm a recent graduate of Northeastern University with a Master's degree in Artificial Intelligence. With a passion for innovation and creating a positive impact, I'm currently seeking full-time roles in AI. My expertise includes exploring the latest AI research and techniques, including deep learning and computer vision.
+I earned senior responsibility by owning hard problems.
 
-As someone who's truly passionate about AI, I'm excited to bring my skills to a full-time role. With a knack for data analysis, programming, and all things tech, I'm confident I can help your organization innovate and make an impact in the field of AI.
+I am a **Tech Lead at QuantUniversity** based in **Boston, MA**, with 4+ years of experience building production-grade AI systems, LLM-powered tools, and scalable cloud infrastructure. I specialize in reducing inference costs and architecting end-to-end AI platforms.
 
-Whether I'm training models in Python, exploring new frontiers in TensorFlow, or collaborating with a team to deliver results, I'm always striving to learn and grow. And with my strong communication skills, I can explain complex concepts in a way that even my grandma would understand.
+---
 
-So if you're looking for an AI expert who's passionate, let's connect!  I'm always up for a chat over coffee or a virtual hangout, and I'm excited to see where this journey takes me.
+### 🚀 What I Do
 
-Let's collaborate and make some magic happen with AI!
+* **AI & LLM Systems:** Architecting RAG pipelines, AI agents, and tool routing using LangChain, LlamaIndex, and Hugging Face.
+* **Engineering Leadership:** Mentoring engineers, designing system architecture, and leading CI/CD strategies for zero-downtime deployments.
+* **Cloud & DevOps:** Managing production MLOps and infrastructure using AWS, Docker, GitHub Actions, and Airflow.
+* **Full-Stack Development:** Building high-performance applications with FastAPI, Streamlit, Node.js, and Redis.
 
-📫 Reach out to me at <a href="mailto:shreyas.s.nikam@gmail.com">Gmail</a> | <a href="https://www.linkedin.com/in/nikam-shreyas">LinkedIn</a>
+---
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
+### 🛠️ Tech Stack
 
+**Languages:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**AI & Machine Learning:**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Azure ML](https://img.shields.io/badge/Azure%20ML-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
+**Backend & Infrastructure:**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+
+---
+
+### 📊 Key Highlights
+
+* **Cost Optimization:** Reduced LLM infrastructure costs by **65%** and inference costs by **50%+** through intelligent model routing and cost-aware selection.
+* **Workflow Automation:** Reduced course production time by **85%** by developing AI-driven content platforms.
+* **Compliance & Ethics:** Built bias auditing tools compliant with **NYC Local Law 144**.
+* **Scalability:** Orchestrated real-time systems ingesting data from industrial sensors and scaled data collection to **400k+ profiles**.
+
+---
+
+### 🎓 Education
+
+* **MS in Artificial Intelligence** | Northeastern University (GPA 4.0)
+* **BE in Computer Science** | Pune Institute of Computer Technology
+
+---
+
+### 📫 Connect with Me
+
+* 🌐 **Portfolio:** [www.nikam-shreyas.com](https://www.nikam-shreyas.com)
+* 💼 **LinkedIn:** [linkedin.com/in/nikam-shreyas](https://www.linkedin.com/in/nikam-shreyas)
+* 📧 **Email:** [shreyas.s.nikam@gmail.com](mailto:shreyas.s.nikam@gmail.com)
+
+Feel free to reach out. I respond fast!
